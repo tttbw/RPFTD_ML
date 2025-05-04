@@ -1,5 +1,7 @@
 # A Financial Data Denoising Method Based on Reflection-Padded Fourier Transform
 
+[中文版本](README.md)
+
 This is a Python toolkit specifically designed for financial time series analysis and prediction, with a focus on stock market price forecasting. The toolkit provides a complete feature engineering pipeline and various deep learning models. Our core innovation is the Reflection-Padded Fourier Transform Denoising (P-FTD) method, which effectively handles noise and outliers in financial time series.
 
 ## Main Features
