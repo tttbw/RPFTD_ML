@@ -192,8 +192,8 @@ We implement various commonly used financial technical indicators:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/financial-time-series.git
-cd financial-time-series
+git clone https://github.com/tttbw/RPFTD_ML.git
+cd RPFTD_ML
 ```
 
 2. Install dependencies:

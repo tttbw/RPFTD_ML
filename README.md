@@ -192,8 +192,8 @@ P-FTD 是一种专门针对金融时间序列设计的降噪方法，它通过�
 1. 克隆仓库：
 
 ```bash
-git clone https://github.com/yourusername/financial-time-series.git
-cd financial-time-series
+git clone https://github.com/tttbw/RPFTD_ML.git
+cd RPFTD_ML
 ```
 
 2. 安装依赖：
