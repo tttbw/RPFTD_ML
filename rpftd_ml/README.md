@@ -4,10 +4,17 @@ A Financial Data Denoising Method Based on Reflection-Padded Fourier Transform
 
 ## Installation
 
-You can install the package using pip:
+1. Clone the repository:
 
 ```bash
-pip install rpftd_ml
+git clone https://github.com/tttbw/RPFTD_ML.git
+cd RPFTD_ML
+```
+
+2. Install the package (development mode):
+
+```bash
+pip install -e .
 ```
 
 ## Usage

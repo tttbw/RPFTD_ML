@@ -68,7 +68,7 @@ P-FTD is a denoising method specifically designed for financial time series, imp
 
 4. **Energy Filtering**
 
-   - Filter  noise based on energy threshold
+   - Filter noise based on energy threshold
    - Optional parameters:
      ```python
      {
@@ -196,10 +196,10 @@ git clone https://github.com/tttbw/RPFTD_ML.git
 cd RPFTD_ML
 ```
 
-2. Install dependencies:
+2. Install the package (development mode):
 
 ```bash
-pip install -r requirements.txt
+pip install -e .
 ```
 
 ## Usage Example

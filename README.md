@@ -196,10 +196,10 @@ git clone https://github.com/tttbw/RPFTD_ML.git
 cd RPFTD_ML
 ```
 
-2. 安装依赖：
+2. 安装包（开发模式）：
 
 ```bash
-pip install -r requirements.txt
+pip install -e .
 ```
 
 ## 使用示例
