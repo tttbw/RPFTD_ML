@@ -68,7 +68,7 @@ P-FTD is a denoising method specifically designed for financial time series, imp
 
 4. **Energy Filtering**
 
-   - Filter high-frequency noise based on energy threshold
+   - Filter  noise based on energy threshold
    - Optional parameters:
      ```python
      {
